@@ -1,0 +1,27 @@
+{
+    "programs": [
+      {
+        "name": "Google Chrome",
+        "url": "https://dl.google.com/chrome/install.exe",
+        "os": "windows"
+      },
+      {
+        "name": "Firefox",
+        "search_query": "firefox download",
+        "os": "parrot"
+      },
+      {
+        "name": "VLC Media Player",
+        "url": "https://get.videolan.org/vlc/3.0.16/win32/vlc-3.0.16-win32.exe",
+        "os": "windows"
+      },
+      {
+        "name": "GIMP",
+        "search_query": "gimp download",
+        "os": "parrot"
+      }
+    ]
+  }
+  
+
+  
