@@ -1,7 +1,14 @@
 ## AUTO INSTALLER
 
-**FOLLOW ME:**
-[IG](https://www.instagram.com/tob_project/) | [Youtube](https://www.youtube.com/@TOB.Project) | [GitHub](https://tobproject.github.io/)
+## Feel free to contact me through the following profiles:
+
+ ## [Linkedin](https://www.linkedin.com/in/andrespds/) | [GitHub](https://github.com/tobproject) | [Instagram](https://www.instagram.com/tob_project/)
+
+
+
+
+
+
 
 
 ## Description
